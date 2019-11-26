@@ -1,4 +1,4 @@
-#About
+# About
 
 x_goldshot a simple python script that uses the library connects to the promotion page, then searches the html code for information using regular expressions. The data collected in this way are sent to the database.
 
